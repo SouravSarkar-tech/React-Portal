@@ -1,0 +1,25 @@
+.massage-box {
+    padding: 5px 20px;
+    background-color: #faf092;
+    border: 3px solid #e4831c;
+    border-radius: 10px;
+    margin: 0 400px;
+    margin-top: 30px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.massage-desc {
+    font-size: 28px;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.massage-close {
+    font-size: 40px;
+    color: rgb(247, 4, 69);
+    font-weight: 600;
+    padding-bottom: 10px;
+    cursor: pointer;
+}

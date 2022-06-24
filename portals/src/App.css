@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  border-bottom: 10px solid rgb(6, 245, 2);
+  border-left: 7px solid rgb(6, 245, 2);
+  background-color:rgb(186, 243, 141);
+  margin-top: 140px;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding: 10px;
+}
+h2{
+  border-bottom: 4px dotted rgb(5, 209, 240);
+  margin: 0 240px;
+  margin-bottom: 30px;
+  font-size: 30px;
+  font-style: italic;
+}
